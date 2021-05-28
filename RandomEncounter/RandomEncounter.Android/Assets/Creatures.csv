@@ -1,0 +1,333 @@
+Name,Type,Challenge_Rating
+Aboleth, aberration, 10
+Acolyte, humanoid, 0,25
+Adult Black Dragon, dragon, 14
+Adult Blue Dragon, dragon, 16
+Adult Brass Dragon, dragon, 13
+Adult Bronze Dragon, dragon, 15
+Adult Copper Dragon, dragon, 14
+Adult Gold Dragon, dragon, 17
+Adult Green Dragon, dragon, 15
+Adult Red Dragon, dragon, 17
+Adult Silver Dragon, dragon, 16
+Adult White Dragon, dragon, 13
+Air Elemental, elemental, 5
+Ancient Black Dragon, dragon, 21
+Ancient Blue Dragon, dragon, 23
+Ancient Brass Dragon, dragon, 20
+Ancient Bronze Dragon, dragon, 22
+Ancient Copper Dragon, dragon, 21
+Ancient Gold Dragon, dragon, 24
+Ancient Green Dragon, dragon, 22
+Ancient Red Dragon, dragon, 24
+Ancient Silver Dragon, dragon, 23
+Ancient White Dragon, dragon, 20
+Androsphinx, monstrosity, 17
+Animated Armor, construct, 1
+Ankheg, monstrosity, 2
+Ape, beast, 0,5
+Archmage, humanoid, 12
+Assassin, humanoid, 8
+Awakened Shrub, plant, 0
+Awakened Tree, plant, 2
+Axe Beak, beast, 0,25
+Azer, elemental, 2
+Baboon, beast, 0
+Badger, beast, 0
+Balor, fiend, 19
+Bandit, humanoid, 0,125
+Bandit Captain, humanoid, 2
+Barbed Devil, fiend, 5
+Basilisk, monstrosity, 3
+Bat, beast, 0
+Bearded Devil, fiend, 3
+Behir, monstrosity, 11
+Berserker, humanoid, 2
+Black Bear, beast, 0,5
+Black Dragon Wyrmling, dragon, 2
+Black Pudding, ooze, 4
+Blink Dog, fey, 0,25
+Blood Hawk, beast, 0,125
+Blue Dragon Wyrmling, dragon, 3
+Boar, beast, 0,25
+Bone Devil, fiend, 12
+Brass Dragon Wyrmling, dragon, 1
+Bronze Dragon Wyrmling, dragon, 2
+Brown Bear, beast, 1
+Bugbear, humanoid, 1
+Bulette, monstrosity, 5
+Camel, beast, 0,125
+Cat, beast, 0
+Centaur, monstrosity, 2
+Chain Devil, fiend, 8
+Chimera, monstrosity, 6
+Chuul, aberration, 4
+Clay Golem, construct, 9
+Cloaker, aberration, 8
+Cloud Giant, giant, 9
+Cockatrice, monstrosity, 0,5
+Commoner, humanoid, 0
+Constrictor Snake, beast, 0,25
+Copper Dragon Wyrmling, dragon, 1
+Couatl, celestial, 4
+Crab, beast, 0
+Crocodile, beast, 0,5
+Cult Fanatic, humanoid, 2
+Cultist, humanoid, 0,125
+Darkmantle, monstrosity, 0,5
+Death Dog, monstrosity, 1
+Deep Gnome (Svirfneblin), humanoid, 0,5
+Deer, beast, 0
+Deva, celestial, 10
+Dire Wolf, beast, 1
+Djinni, elemental, 11
+Doppelganger, monstrosity, 3
+Draft Horse, beast, 0,25
+Dragon Turtle, dragon, 17
+Dretch, fiend, 0,25
+Drider, monstrosity, 6
+Drow, humanoid, 0,25
+Druid, humanoid, 2
+Dryad, fey, 1
+Duergar, humanoid, 1
+Dust Mephit, elemental, 0,5
+Eagle, beast, 0
+Earth Elemental, elemental, 5
+Efreeti, elemental, 11
+Elephant, beast, 4
+Elk, beast, 0,25
+Erinyes, fiend, 12
+Ettercap, monstrosity, 2
+Ettin, giant, 4
+Fire Elemental, elemental, 5
+Fire Giant, giant, 9
+Flesh Golem, construct, 5
+Flying Snake, beast, 0,125
+Flying Sword, construct, 0,25
+Frog, beast, 0
+Frost Giant, giant, 8
+Gargoyle, elemental, 2
+Gelatinous Cube, ooze, 2
+Ghast, undead, 2
+Ghost, undead, 4
+Ghoul, undead, 1
+Giant Ape, beast, 7
+Giant Badger, beast, 0,25
+Giant Bat, beast, 0,25
+Giant Boar, beast, 2
+Giant Centipede, beast, 0,25
+Giant Constrictor Snake, beast, 2
+Giant Crab, beast, 0,125
+Giant Crocodile, beast, 5
+Giant Eagle, beast, 1
+Giant Elk, beast, 2
+Giant Fire Beetle, beast, 0
+Giant Frog, beast, 0,25
+Giant Goat, beast, 0,5
+Giant Hyena, beast, 1
+Giant Lizard, beast, 0,25
+Giant Octopus, beast, 1
+Giant Owl, beast, 0,25
+Giant Poisonous Snake, beast, 0,25
+Giant Rat, beast, 0,125
+Giant Rat (Diseased), beast, 0,125
+Giant Scorpion, beast, 3
+Giant Sea Horse, beast, 0,5
+Giant Shark, beast, 5
+Giant Spider, beast, 1
+Giant Toad, beast, 1
+Giant Vulture, beast, 1
+Giant Wasp, beast, 0,5
+Giant Weasel, beast, 0,125
+Giant Wolf Spider, beast, 0,25
+Gibbering Mouther, aberration, 2
+Glabrezu, fiend, 9
+Gladiator, humanoid, 5
+Gnoll, humanoid, 0,5
+Goat, beast, 0
+Goblin, humanoid, 0,25
+Gold Dragon Wyrmling, dragon, 3
+Gorgon, monstrosity, 5
+Gray Ooze, ooze, 0,5
+Green Dragon Wyrmling, dragon, 2
+Green Hag, fey, 3
+Grick, monstrosity, 2
+Griffon, monstrosity, 2
+Grimlock, humanoid, 0,25
+Guard, humanoid, 0,125
+Guardian Naga, monstrosity, 10
+Gynosphinx, monstrosity, 11
+Half-Red Dragon Veteran, humanoid, 5
+Harpy, monstrosity, 1
+Hawk, beast, 0
+Hell Hound, fiend, 3
+Hezrou, fiend, 8
+Hill Giant, giant, 5
+Hippogriff, monstrosity, 1
+Hobgoblin, humanoid, 0,5
+Homunculus, construct, 0
+Horned Devil, fiend, 11
+Hunter Shark, beast, 2
+Hydra, monstrosity, 8
+Hyena, beast, 0
+Ice Devil, fiend, 14
+Ice Mephit, elemental, 0,5
+Imp, fiend, 1
+Invisible Stalker, elemental, 6
+Iron Golem, construct, 16
+Jackal, beast, 0
+Killer Whale, beast, 3
+Knight, humanoid, 3
+Kobold, humanoid, 0,125
+Kraken, monstrosity, 23
+Lamia, monstrosity, 4
+Lemure, fiend, 0
+Lich, undead, 21
+Lion, beast, 1
+Lizard, beast, 0
+Lizardfolk, humanoid, 0,5
+Mage, humanoid, 6
+Magma Mephit, elemental, 0,5
+Magmin, elemental, 0,5
+Mammoth, beast, 6
+Manticore, monstrosity, 3
+Marilith, fiend, 16
+Mastiff, beast, 0,125
+Medusa, monstrosity, 6
+Merfolk, humanoid, 0,125
+Merrow, monstrosity, 2
+Mimic, monstrosity, 2
+Minotaur, monstrosity, 3
+Minotaur Skeleton, undead, 2
+Mule, beast, 0,125
+Mummy, undead, 3
+Mummy Lord, undead, 15
+Nalfeshnee, fiend, 13
+Night Hag, fiend, 5
+Nightmare, fiend, 3
+Noble, humanoid, 0,125
+Ochre Jelly, ooze, 2
+Octopus, beast, 0
+Ogre, giant, 2
+Ogre Zombie, undead, 2
+Oni, giant, 7
+Orc, humanoid, 0,5
+Otyugh, aberration, 5
+Owl, beast, 0
+Owlbear, monstrosity, 3
+Panther, beast, 0,25
+Pegasus, celestial, 2
+Phase Spider, monstrosity, 3
+Pit Fiend, fiend, 20
+Planetar, celestial, 16
+Plesiosaurus, beast, 2
+Poisonous Snake, beast, 0,125
+Polar Bear, beast, 2
+Pony, beast, 0,125
+Priest, humanoid, 2
+Pseudodragon, dragon, 0,25
+Purple Worm, monstrosity, 15
+Quasit, fiend, 1
+Quipper, beast, 0
+Rakshasa, fiend, 13
+Rat, beast, 0
+Raven, beast, 0
+Red Dragon Wyrmling, dragon, 4
+Reef Shark, beast, 0,5
+Remorhaz, monstrosity, 11
+Rhinoceros, beast, 2
+Riding Horse, beast, 0,25
+Roc, monstrosity, 11
+Roper, monstrosity, 5
+Rug of Smothering, construct, 2
+Rust Monster, monstrosity, 0,5
+Saber-Toothed Tiger, beast, 2
+Sahuagin, humanoid, 0,5
+Salamander, elemental, 5
+Satyr, fey, 0,5
+Scorpion, beast, 0
+Scout, humanoid, 0,5
+Sea Hag, fey, 2
+Sea Horse, beast, 0
+Shadow, undead, 0,5
+Shambling Mound, plant, 5
+Shield Guardian, construct, 7
+Shrieker, plant, 0
+Silver Dragon Wyrmling, dragon, 2
+Skeleton, undead, 0,25
+Solar, celestial, 21
+Specter, undead, 1
+Spider, beast, 0
+Spirit Naga, monstrosity, 8
+Sprite, fey, 0,25
+Spy, humanoid, 1
+Steam Mephit, elemental, 0,25
+Stirge, beast, 0,125
+Stone Giant, giant, 7
+Stone Golem, construct, 10
+Storm Giant, giant, 13
+Succubus/Incubus, fiend, 4
+Swarm of Bats, swarm of Tiny beasts, 0,25
+Swarm of Beetles, swarm of Tiny beasts, 0,5
+Swarm of Centipedes, swarm of Tiny beasts, 0,5
+Swarm of Insects, swarm of Tiny beasts, 0,5
+Swarm of Poisonous Snakes, swarm of Tiny beasts, 2
+Swarm of Quippers, swarm of Tiny beasts, 1
+Swarm of Rats, swarm of Tiny beasts, 0,25
+Swarm of Ravens, swarm of Tiny beasts, 0,25
+Swarm of Spiders, swarm of Tiny beasts, 0,5
+Swarm of Wasps, swarm of Tiny beasts, 0,5
+Tarrasque, monstrosity, 30
+Thug, humanoid, 0,5
+Tiger, beast, 1
+Treant, plant, 9
+Tribal Warrior, humanoid, 0,125
+Triceratops, beast, 5
+Troll, giant, 5
+Tyrannosaurus Rex, beast, 8
+Unicorn, celestial, 5
+Vampire, undead, 13
+Vampire Spawn, undead, 5
+Veteran, humanoid, 3
+Violet Fungus, plant, 0,25
+Vrock, fiend, 6
+Vulture, beast, 0
+Warhorse, beast, 0,5
+Warhorse Skeleton, undead, 0,5
+Water Elemental, elemental, 5
+Weasel, beast, 0
+Werebear Bear form, humanoid, 5
+Werebear Human form, humanoid, 5
+Werebear Hybrid form, humanoid, 5
+Wereboar Boar form, humanoid, 4
+Wereboar Human form, humanoid, 4
+Wereboar Hybrid form, humanoid, 4
+Wererat Human form, humanoid, 2
+Wererat Hybrid form, humanoid, 2
+Wererat Rat form, humanoid, 2
+Weretiger Human form, humanoid, 4
+Weretiger Hybrid form, humanoid, 4
+Weretiger Tiger form, humanoid, 4
+Werewolf Human form, humanoid, 3
+Werewolf Hybrid form, humanoid, 3
+Werewolf Wolf form, humanoid, 3
+White Dragon Wyrmling, dragon, 2
+Wight, undead, 3
+Will-o'-Wisp, undead, 2
+Winter Wolf, monstrosity, 3
+Wolf, beast, 0,25
+Worg, monstrosity, 0,5
+Wraith, undead, 5
+Wyvern, dragon, 6
+Xorn, elemental, 5
+Young Black Dragon, dragon, 7
+Young Blue Dragon, dragon, 9
+Young Brass Dragon, dragon, 6
+Young Bronze Dragon, dragon, 8
+Young Copper Dragon, dragon, 7
+Young Gold Dragon, dragon, 10
+Young Green Dragon, dragon, 8
+Young Red Dragon, dragon, 10
+Young Silver Dragon, dragon, 9
+Young White Dragon, dragon, 6
+Zombie, undead, 0,25

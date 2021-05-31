@@ -54,11 +54,6 @@ namespace RandomEncounter
                 collectionView.ItemsSource = null;
                 encounteredCreature = encounter.Generate(Convert.ToInt32(p_LevelPicker.SelectedItem), difficultyPicker.SelectedItem.ToString(), monsterTypePicker.SelectedItem.ToString());
 
-                if (encounteredCreature.Count == 1 && encounteredCreature[0].Name == "No Creature")
-                {
-                    emptyList.Add(new Creature { Name = "No Creature Matching Inputs", Challenge_Rating = 0 });
-                    collectionView.ItemsSource = emptyList;
-                }
                 collectionView.ItemsSource = encounteredCreature;
 
                 // Creates the Data Template for the collection view

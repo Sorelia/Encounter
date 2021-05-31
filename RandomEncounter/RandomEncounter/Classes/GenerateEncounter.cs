@@ -7,7 +7,6 @@ namespace RandomEncounter.Classes
 {
     class GenerateEncounter : IGenerateEncounter
     {
-        Random rnd;
         List<Creature> creatures = new List<Creature>();
 
         /// <summary>
@@ -330,21 +329,7 @@ namespace RandomEncounter.Classes
                         cr = cr - item.Challenge_Rating;
                     }
                 }
-                //if (item.Type == type && item.Challenge_Rating == GenerateChallengeRating(level, difficulty))
-                //{
-                //    creatures.Add(new Creature
-                //    {
-                //        Name = item.Name,
-                //        Type = item.Type,
-                //        Challenge_Rating = item.Challenge_Rating
-                //    });
-                //}
             }
-
-
-            rnd = new Random();
-
-            int i = rnd.Next(0, creatures.Count);
 
             if (creatures.Count == 0)
             {

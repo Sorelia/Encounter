@@ -3,56 +3,46 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="RandomEncounter.MainPage">
 
-    <StackLayout BackgroundColor="gray">
-        <!--<CollectionView x:Name="collectionView">
-            <CollectionView.ItemTemplate>
-                <DataTemplate>
-                    <StackLayout x:Name="MyLayout">
-                        
-                    </StackLayout>
-                </DataTemplate>
-            </CollectionView.ItemTemplate>
-        </CollectionView>-->
+    <StackLayout BackgroundColor="Gray">
+        
         <StackLayout>
             <Label x:Name="Title"
                    Text="Random Encounter"
-                   TextColor="Black"
+                   TextColor="#7DFFAF"
                    FontSize="Title"
+                   FontAttributes="Bold"
                    Margin="95,20, 0, 0"/>
             <Picker Title="Select a Monster Type"
-                TitleColor="Black"
+                    TitleColor="#7DFFAF"
+                    TextColor="#7DFFAF"
                     FontAttributes="Bold"
                 x:Name="monsterTypePicker"
                     Margin="20"/>
             <Picker x:Name="p_LevelPicker"
                     Title="Select Player Levels"
-                    TitleColor="Black"
+                    TitleColor="#7DFFAF"
+                    TextColor="#7DFFAF"
                     FontAttributes="Bold"
                     Margin="20"/>
             <Picker x:Name="difficultyPicker"
                     Title="Select Encounter Difficulty"
-                    TitleColor="Black"
+                    TitleColor="#7DFFAF"
                     FontAttributes="Bold"
+                    TextColor="#7DFFAF"
                     Margin="20"/>
 
             <Button Clicked="GenerateEncounterButton_Clicked"
                     Text="Generate Encounter"
-                    Margin="35, 10, 35, 0"/>
+                    Margin="35, 10, 35, 0"
+                    TextColor="#7DF9FF"/>
 
-
-            <Label x:Name="creatureName"
-                   Margin="20, 20, 20, 0"
-                   FontSize="Large"
-                   TextColor="Black"
-                   FontAttributes="Bold"
-                   />
-            <Label x:Name="challengeRating"
-                   Margin="20, 5, 20, 0"
-                   FontSize="Large"
-                   TextColor="Black"
-                   FontAttributes="Bold"/>
+            
         </StackLayout>
-        
+
+        <CollectionView x:Name="collectionView">
+            
+        </CollectionView>
+
     </StackLayout>
 
 </ContentPage>

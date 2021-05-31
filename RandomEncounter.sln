@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomEncounter.Android", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomEncounter.iOS", "RandomEncounter\RandomEncounter.iOS\RandomEncounter.iOS.csproj", "{B8C82597-D931-4FC7-AC8E-56D0EBB0FADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomEncounter", "RandomEncounter\RandomEncounter\RandomEncounter.csproj", "{42A80023-446D-47D7-807A-6DFDDE53B821}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomEncounter", "RandomEncounter\RandomEncounter\RandomEncounter.csproj", "{42A80023-446D-47D7-807A-6DFDDE53B821}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

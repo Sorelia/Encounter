@@ -17,7 +17,6 @@ namespace RandomEncounter.Classes
         /// <returns></returns>
         public List<Creature> CheckDB()
         {
-            
                 if (App.Database.GetCreaturesAsync().Result.Count != 0)
                 {
                     creatures.Add(new Creature { Name = "No Creatures found" });

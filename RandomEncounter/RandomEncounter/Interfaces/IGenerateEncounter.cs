@@ -7,7 +7,7 @@ namespace RandomEncounter.Interfaces
     interface IGenerateEncounter
     {
         float GenerateChallengeRating(int level, string difficulty);
-        Creature Generate(int level, string difficulty, string type);
+        List<Creature> Generate(int level, string difficulty, string type);
         void Clear();
     }
 }

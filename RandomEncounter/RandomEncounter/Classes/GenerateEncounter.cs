@@ -306,19 +306,39 @@ namespace RandomEncounter.Classes
         /// <param name="difficulty"></param>
         /// <param name="type"></param>
         /// <returns></returns>
-        public Creature Generate(int level, string difficulty, string type)
+        public List<Creature> Generate(int level, string difficulty, string type)
         {
+            float cr = 0;
             foreach (var item in App.Database.GetCreaturesAsync().Result)
             {
-                if (item.Type == type && item.Challenge_Rating == GenerateChallengeRating(level, difficulty))
+                
+                if (cr == 0 && creatures.Count == 0)
                 {
-                    creatures.Add(new Creature
-                    {
-                        Name = item.Name,
-                        Type = item.Type,
-                        Challenge_Rating = item.Challenge_Rating
-                    });
+                    cr = GenerateChallengeRating(level, difficulty) * 3;
                 }
+                 
+                if (item.Type == type)
+                {
+                    if (item.Challenge_Rating < cr && item.Challenge_Rating < level && item.Challenge_Rating != 0)
+                    {
+                        creatures.Add(new Creature
+                        {
+                            Name = item.Name,
+                            Type = item.Type,
+                            Challenge_Rating = item.Challenge_Rating
+                        });
+                        cr = cr - item.Challenge_Rating;
+                    }
+                }
+                //if (item.Type == type && item.Challenge_Rating == GenerateChallengeRating(level, difficulty))
+                //{
+                //    creatures.Add(new Creature
+                //    {
+                //        Name = item.Name,
+                //        Type = item.Type,
+                //        Challenge_Rating = item.Challenge_Rating
+                //    });
+                //}
             }
 
 
@@ -328,11 +348,12 @@ namespace RandomEncounter.Classes
 
             if (creatures.Count == 0)
             {
-                return new Creature { Name = "No Creature" };
+                creatures.Add(new Creature { Name = "No Creature" });
+                return creatures;
             }
             else
             {
-                return creatures[i];
+                return creatures;
             }
         }
     }

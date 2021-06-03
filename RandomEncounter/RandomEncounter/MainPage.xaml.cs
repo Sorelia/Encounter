@@ -61,6 +61,7 @@ namespace RandomEncounter
                 {
                     StackLayout stacklayout = new StackLayout();
 
+                    // Creation of Labels and their styling
                     Label amount = new Label();
                     amount.Text = "Amount: 1";
                     amount.Margin = new Thickness(20, 5, 0, -5);
@@ -99,6 +100,7 @@ namespace RandomEncounter
                     cr.FontAttributes = FontAttributes.Bold;
                     cr.TextColor = System.Drawing.Color.Black;
 
+                    // Adding the labels to the layout
                     stacklayout.Children.Add(amount);
                     stacklayout.Children.Add(cName);
                     stacklayout.Children.Add(name);

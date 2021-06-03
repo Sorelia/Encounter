@@ -55,9 +55,12 @@
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidKeyStore>false</AndroidKeyStore>
     <AndroidSigningKeyStore>C:\Users\luzosa\AppData\Local\Xamarin\Mono for Android\Keystore\Sorelia\Sorelia.keystore</AndroidSigningKeyStore>
-    <AndroidSigningStorePass>L3tM3In#K3yStor3</AndroidSigningStorePass>
-    <AndroidSigningKeyAlias>Sorelia</AndroidSigningKeyAlias>
-    <AndroidSigningKeyPass>L3tM3In#K3yStor3</AndroidSigningKeyPass>
+    <AndroidSigningStorePass>
+    </AndroidSigningStorePass>
+    <AndroidSigningKeyAlias>
+    </AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>
+    </AndroidSigningKeyPass>
     <MandroidI18n />
     <AndroidApkSignerAdditionalArguments>
     </AndroidApkSignerAdditionalArguments>

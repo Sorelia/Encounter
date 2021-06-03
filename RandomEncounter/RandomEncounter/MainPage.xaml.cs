@@ -25,7 +25,7 @@ namespace RandomEncounter
         List<Creature> encounteredCreature = new List<Creature>();
         List<Creature> emptyList = new List<Creature>();
 
-        protected override async void OnAppearing()
+        protected override void OnAppearing()
         {
             base.OnAppearing();
             // Checks if Database is empty
@@ -76,7 +76,7 @@ namespace RandomEncounter
                     cName.FontAttributes = FontAttributes.Bold;
                     cName.TextColor = System.Drawing.Color.Black;
                     cName.HorizontalTextAlignment = TextAlignment.Start;
-
+                    
                     Label name = new Label();
                     name.SetBinding(Label.TextProperty, "Name");
                     name.FontSize = 16;
